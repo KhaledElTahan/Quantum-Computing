@@ -35,3 +35,7 @@ Please start by checking the following tutorials:
 
 * Solve [this notebook](lab2.ipynb) of the assignment and deliver a filled ipython notebook that shows the outputs of the different circuits.
 * Answer the provided questions in the lab, via the submission form.
+
+## Notes
+
+* Qiskit uses the least significant bits order (from right to left), i.e. the first qubit is the one to the rightmost.

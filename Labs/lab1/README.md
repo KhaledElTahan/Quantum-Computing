@@ -1,4 +1,4 @@
-# Quirk
+# Lab1: Quirk
 
 ![Quirk](quirk.gif)
 

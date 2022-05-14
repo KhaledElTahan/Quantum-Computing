@@ -1,12 +1,14 @@
 # Lab3: Qiskit - Quantum Teleportation
 
-![Qiskit]()
+![Quantum Teleportation](quantum-teleportation.jpeg)
 
 ## 1 - Objectives
 
-## 2 - Introduction to Qiskit
 
-## 3 - Requirements
+* Review quantum teleportation
+* Learn how to implement a quantum circuit that implements quantum teleportation.
 
-* Solve [this notebook](lab3.ipynb) of the assignment and deliver a filled ipython notebook that shows the best output found in your experiments.
-* You should deliver a PDF report that has tables summarize all your work and experiments.
+
+## 2 - Requirements
+
+* Solve [this notebook](lab3.ipynb) of the assignment and deliver a filled ipython notebook that shows all the outputs of your solution.
